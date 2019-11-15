@@ -29,7 +29,7 @@ public class Resource {
     public List<Users> users() {
         Users users = new Users();
         users.setId(1);
-        users.setName("Sam");
+        users.setName("ram");
         users.setSalary(3400);
         users.setTeamName("Development");
 
